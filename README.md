@@ -1,2 +1,2 @@
-# exercicios_e_desafios
+# Exercícios e Desafios
 Exercícios e desafios de programação
